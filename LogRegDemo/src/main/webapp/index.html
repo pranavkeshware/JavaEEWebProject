@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script type="text/javascript">
+function callServ(){
+	
+	window.location.href ="register.html";
+}
+</script>
+
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<h1>Employee Login Form</h1>
+<form action="serv2" method="post">
+<table>
+<tr>
+<td>Enter User Name:</td>
+<td><input type="text" name=txtUsername></td>
+</tr>
+<tr>
+<td>Enter Password:</td>
+<td><input type="password" name=txtPassword></td>
+</tr>
+<tr>
+<td><input type="button" value="register" onclick="return callServ();"></td>
+<td><input type="submit" value="login"></td>
+</tr>
+</table>
+</form>
+</body>
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+     <a href="viewEmployee.jsp">View Employee</a>
+     <hr>
+     <form action="addEmp.jsp">
+     <table>
+     <tr>
+       <td>Enter Name: </td>
+       <td><input type="text" name="name"></td>
+     </tr>
+          <tr>
+       <td>Enter Password: </td>
+       <td><input type="password" name="password"></td>
+     </tr>
+      <tr>
+       <td>Enter Email: </td>
+       <td><input type="email" name="email"></td>
+     </tr>
+      <tr>
+       <td>Select Gender: </td>
+       <td><input type="radio" name="gender" value="male">Male</td>
+       <td><input type="radio" name="gender" value="female">Female</td>
+     </tr>
+     <tr>
+     <td>Select Country:</td>
+     <td><select name="country">
+     <option value="India">India</option>
+     <option value="Russia">Russia</option>
+     <option value="USA">USA</option>
+     </select></td>
+     <tr>
+     <td><input type="submit" value="Add Employee"></td>
+     </tr>
+     </table>
+     </form>
+</body>
+</html>

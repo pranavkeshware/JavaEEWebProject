@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="com.app"/>
+			<item value="comp.app"/>
+			<item value="SpringMVCDemo"/>
+			<item value="MVCDemo"/>
+			<item value="CRUD"/>
+			<item value="com.xpp"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="JsonWeb"/>
+			<item value="JaksonWeb"/>
+			<item value="JSONWebDemo"/>
+			<item value="SpringCrudDemo"/>
+			<item value="SpringCRUDMVCDemo"/>
+			<item value="SpringMVCCRUD"/>
+			<item value="SpringFormTagDemo"/>
+			<item value="SpringMVCDemo"/>
+			<item value="MVCDemo"/>
+			<item value="CRUD"/>
+			<item value="ToDoList"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\hp\Desktop\JavaEEWeb\SeleniumDemo\src\main\java\com\app\App.java"/>
+			<item value="C:\Users\hp\Desktop\JavaEEWeb\SeleniumDemo\pom.xml"/>
+			<item value="C:\Users\hp\Desktop\eclipse2023-12JavaEE9to4\JSONWebDemo"/>
+			<item value="C:\Users\hp\Desktop\eclipse2023-12JavaEE9to4\SpringMVCDemo"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.app"/>
+			<item value="Selenium"/>
+			<item value="SeleniumDemo2"/>
+			<item value="SeleniumDemo1"/>
+		</list>
+		<list key="groupId">
+			<item value="com.app"/>
+			<item value="Selenium"/>
+			<item value="SeleniumDemo2"/>
+			<item value="SeleniumDemo1"/>
+		</list>
+		<list key="artifactId">
+			<item value="Selenium2"/>
+			<item value="Selenium"/>
+			<item value="com.app"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>
